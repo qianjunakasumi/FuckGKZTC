@@ -1,0 +1,2 @@
+# FuckGaoKaoZhiTongChe
+解除高考直通车展开阅读全部的下载APP和登录限制
