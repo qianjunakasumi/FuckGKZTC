@@ -14,6 +14,7 @@
 // @description  解除高考直通车展开阅读全部的下载 APP 和登录限制
 // @source       https://github.com/qianjunakasumi/FuckGaoKaoZhiTongChe
 // @updateURL    https://github.com/qianjunakasumi/FuckGaoKaoZhiTongChe/blob/main/main.js
+// @downloadURL  https://github.com/qianjunakasumi/FuckGaoKaoZhiTongChe/blob/main/main.js
 // @supportURL   https://github.com/qianjunakasumi/FuckGaoKaoZhiTongChe/issues/new/choose
 // @match        https://app.gaokaozhitongche.com/newsexam/h/*
 // @grant        GM_addStyle
