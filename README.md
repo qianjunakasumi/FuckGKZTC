@@ -1,6 +1,6 @@
-# 他奶奶的高考直通车
+# 他奶奶的高考某某车
 
-解除高考直通车展开阅读全部的下载 APP 和登录限制。
+解除高考某某车展开阅读全部的下载 APP 和登录限制。
 
 我认为，下载 APP 并登录才能阅读全部是过度收集非必要信息的表现。
 
@@ -18,4 +18,4 @@
 
 ## 许可证
 
-[![GitHub license](https://img.shields.io/github/license/qianjunakasumi/FuckGaoKaoZhiTongChe?style=for-the-badge)](https://github.com/qianjunakasumi/FuckGaoKaoZhiTongChe/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/qianjunakasumi/FuckGaoKaoZhiTongChe?style=for-the-badge)](https://github.com/qianjunakasumi/FuckGKZTC/blob/main/LICENSE)
