@@ -18,4 +18,4 @@
 
 ## 许可证
 
-[![GitHub license](https://img.shields.io/github/license/qianjunakasumi/FuckGaoKaoZhiTongChe?style=for-the-badge)](https://github.com/qianjunakasumi/FuckGKZTC/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/qianjunakasumi/FuckGKZTC?style=for-the-badge)](https://github.com/qianjunakasumi/FuckGKZTC/blob/main/LICENSE)
