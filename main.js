@@ -15,7 +15,7 @@
 // @source       https://github.com/qianjunakasumi/FuckGKZTC
 // @updateURL    https://github.com/qianjunakasumi/FuckGKZTC/blob/main/main.js
 // @downloadURL  https://github.com/qianjunakasumi/FuckGKZTC/blob/main/main.js
-// @supportURL   https://github.com/qianjunakasumi/FuckGKZTC/issues/new
+// @supportURL   https://github.com/qianjunakasumi/FuckGKZTC/issues/new/choose
 // @match        https://app.gaokaozhitongche.com/newsexam/h/*
 // @grant        GM_addStyle
 // ==/UserScript==
